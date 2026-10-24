@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lucas/School/ETSU/Fall 2026/Principles of Game Design/Unreal Projects/PoG-Level/PoGLevel2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/lucas/School/ETSU/Fall 2026/Principles of Game Design/Unreal Projects/PoG-Level/PoGLevel2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
